@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxTPower
 - 👀 I’m interested in learning DevOps.
 - 🌱 I’m currently learning github and azure. btw no dev experience.
-- 💞️ I’m looking to collaborate on any project.
+- 💞️ I’m looking to collaborate on any project with creating technical documentation.
 - 📫 How to reach me thomasedwardpower@gmail.com
 
 <!---
