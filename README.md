@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaxTPower
-- 👀 I’m interested in learning DevOps.
-- 🌱 I’m currently learning github and azure.
+- 👋 Hi, I’m Tom Power.
+- 👀 I’m interested in learning docs-as-code.
+- 🌱 I’m currently learning markdown, github, and cloud security.
 - 💞️ I’m looking to collaborate on any project with creating technical documentation.
 - 📫 How to reach me thomasedwardpower@gmail.com
 
