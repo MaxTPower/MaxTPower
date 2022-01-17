@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom Power, a cybersecurity professional.
 - 👀 I’m interested in the docs-as-code philosophy.
-- 🌱 I’m currently learning markdown, github, and cloud security.
+- 🌱 I’m currently learning python, markdown, github, and cloud security.
 - 💞️ I’m looking to collaborate on any project with creating technical documentation.
 - 📫 How to reach me thomasedwardpower@gmail.com
 
