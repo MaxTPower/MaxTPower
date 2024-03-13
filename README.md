@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, markdown, github, automation, and cloud security.
 - 💞️ I’m looking to collaborate on any project with creating technical documentation.
 - 📫 How to reach me thomasedwardpower@gmail.com
+- :radio: New bands in my prog-rock playlists: Crown Lands & Animals As Leaders
 
 <!---
 MaxTPower/MaxTPower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
