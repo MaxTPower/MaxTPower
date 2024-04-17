@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Power, a cybersecurity professional working in SecOps.
-- 👀 I’m interested in painting, writing, and technology.
+- 👀 I’m interested in painting, brewing kombucha, writing, and technology.
 - 🌱 I’m currently learning python, markdown, github, automation, and cloud security.
 - 💞️ I’m looking to collaborate on any project with creating technical documentation.
 - 📫 How to reach me thomasedwardpower@gmail.com
