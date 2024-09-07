@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Tom Power, a cybersecurity professional working in SecOps.
 - 👀 I’m interested in painting, brewing kombucha, writing, and technology.
-- 🌱 I’m currently learning python, markdown, github, automation, and cloud security.
-- 💞️ I’m looking to collaborate on any project with creating technical documentation.
-- 📫 How to reach me thomasedwardpower@gmail.com
+- 🌱 My current focus is automation using the [Tines](https://tines.com) platform.
 - :radio: New bands in my prog-rock playlists: [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr?si=B9pZynZXRTGP6k5-soVslg) & [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8?si=46qwoifiQ_qUdi-ccJDw2A)
 
 <!---
